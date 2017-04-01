@@ -1,2 +1,3 @@
 # slothai.github.com
-Sloth AI website
+
+Sloth AI website: http://slothai.github.com
